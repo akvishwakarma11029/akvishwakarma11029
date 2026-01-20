@@ -59,17 +59,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contributions
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akvishwakarma11029&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akvishwakarma11029&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats" />
+</div>
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=akvishwakarma11029&theme=dracula&row=1&column=4" height="150" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akvishwakarma11029&layout=compact&theme=dracula&hide=html,css" height="100"/>
+<div align="center">
+  <!-- GitHub Contribution Graph (green dots / Pac-Man style) -->
+  <img src="https://gh-pacman.vercel.app/?username=akvishwakarma11029&theme=dracula" alt="GitHub Pac-Man" />
 </div>
 
 ---
