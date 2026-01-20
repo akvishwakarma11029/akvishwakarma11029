@@ -63,13 +63,11 @@
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=akvishwakarma11029&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akvishwakarma11029&theme=dracula&hide_border=false&border_radius=5" height="150" />
 
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=akvishwakarma11029&theme=dracula&row=1&column=4" height="150" />
-</div>
 
-<div align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akvishwakarma11029&layout=compact&theme=dracula&hide=html,css" height="100"/>
 </div>
