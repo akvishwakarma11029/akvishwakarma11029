@@ -64,12 +64,7 @@
 <div align="center">
   <!-- Overall GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=akvishwakarma11029&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <!-- GitHub Contribution Graph (green dots / Pac-Man style) -->
-  <img src="https://gh-pacman.vercel.app/?username=akvishwakarma11029&theme=dracula" alt="GitHub Pac-Man" />
-</div>
+</div
 
 ---
 
